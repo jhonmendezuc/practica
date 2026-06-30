@@ -1,2 +1,3 @@
 # practica
-trabajo colaborativo
+
+trabajo colaborativo.
